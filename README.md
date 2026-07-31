@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Android-Under Development-lightgrey?style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/iOS-Planned-lightgrey?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/WCAG%202.2-AA%20Aligned-2FBFA0?style=flat-square" />
+<img src="https://img.shields.io/badge/Accessibilty at Core-2FBFA0?style=flat-square" />
 
 <br/><br/>
 
