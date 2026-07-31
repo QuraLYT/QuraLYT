@@ -299,7 +299,7 @@ Your saved place in the Qur'an
 
 <br/>
 
-*More screenshots and a short live demo video will be added here as development progresses. What you'll see is the real QuraLYT app, exactly as it exists, not a concept mockup.*
+*For more screenshots and live demo videos of QuraLYT in action, visit quralyt.com.*
 
 ---
 
