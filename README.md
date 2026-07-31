@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30584590/README.md)
+[README.md](https://github.com/user-attachments/files/30585351/README.md)
 <div align="center">
 
 <img src="https://quralyt.com/quralyt-logo.svg" alt="QuraLYT" width="120" />
@@ -10,15 +10,15 @@
 <img src="https://img.shields.io/badge/Status-In%20Development-FFD83F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Price-Free%20Forever-6B2FBF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Privacy-Zero%20Tracking-2FBFA0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Accessibility-At%20The%20Core-2FBFA0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Mission-Sadaqah%20Jariyah-E8B84B?style=for-the-badge" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Built%20with-FlutterFlow-6F4CE0?style=flat-square" />
-<img src="https://img.shields.io/badge/Android-Under Development-lightgrey?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-Planned-lightgrey?style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/iOS-Planned-lightgrey?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/WCAG%202.2-AA%20Aligned-2FBFA0?style=flat-square" />
-<img src="https://img.shields.io/badge/Accessibilty-At Core-2FBFA0?style=flat-square" />
 
 <br/><br/>
 
@@ -46,6 +46,7 @@
 - [Platform Vision](#-platform-vision)
 - [Future Ecosystem](#-future-ecosystem)
 - [Trust & Authenticity](#-trust--authenticity)
+- [Free, Pro & Elite](#-free-pro--elite)
 - [Themes](#-themes)
 - [Languages](#-languages)
 - [Roadmap](#-roadmap)
@@ -79,9 +80,17 @@ QuraLYT was never created to compete. It was created to serve.
 
 ## 🙋 A Personal Note
 
-I built QuraLYT alone. Not as a business venture, not for recognition, and not with the expectation of success. I built it in spare hours, with what little I had, for one reason: seeking the pleasure of Allah and the hope of a good akhirah.
+QuraLYT has been crafted by one person, one step at a time, over many years. Every screen, every feature, every decision, and every challenge has been part of a journey driven by a simple intention: to create a Qur'an platform that serves the Ummah with sincerity, respect, and excellence.
 
-No company funded this. No investors shaped it. Every screen, every feature, and every decision was built with the belief that the Qur'an deserves technology that serves the reader rather than competing for their attention.
+It has not always been easy. Like many long term projects built independently, there have been setbacks, difficult choices, and moments where progress felt almost impossible. Yet, by the mercy of Allah, QuraLYT continued to grow.
+
+Today, the foundation is in place.
+
+The vision, however, is far greater than what one person can accomplish alone.
+
+To bring QuraLYT to Muslims around the world, I believe it now needs the knowledge, experience, and support of the Ummah. Whether through scholarship, accessibility expertise, translations, development, design, testing, or simply sincere feedback, every contribution can help make QuraLYT better for everyone.
+
+I pray that this project becomes a lasting source of benefit, a means of bringing people closer to the Qur'an, and a form of sadaqah jariyah for everyone who helps it grow.
 
 QuraLYT is a project of LYTDesign™, based in Norway, but it is built and maintained by one person, not a company or a team.
 
@@ -105,16 +114,12 @@ Every decision in QuraLYT begins with that question:
 
 ## 👥 Who QuraLYT Is For
 
-QuraLYT is designed for the entire Ummah, including:
+QuraLYT is designed to be welcoming to the entire Ummah, across different ages, abilities, levels of experience, and backgrounds:
 
 - **Lifelong Muslims**, whether reading for the first time or the thousandth
-- **New Muslims**, with no assumptions, no confusion, and clear guidance from the very first screen
-- **People returning to Islam**, who deserve a calm and welcoming re-entry point, not a confusing app
+- **New Muslims and those returning to Islam**, with no assumptions, no confusion, and clear guidance from the very first screen
 - **Children learning with family**, in homes, mosques, and schools
-- **Elderly readers**, with larger text, simplified navigation, and enhanced readability
-- **Disabled users**, with forgiving touch targets and simplified interaction patterns
-- **Neurodivergent users**, with calm, predictable layouts and minimal distraction
-- **Anyone who has felt overwhelmed by existing Qur'an apps**, cluttered menus, ads, or unclear navigation were never meant to stand between a reader and the Qur'an
+- **Anyone who has felt overwhelmed by existing Qur'an apps**, cluttered menus, ads, and unclear navigation were never meant to stand between a reader and the Qur'an
 
 ---
 
@@ -130,7 +135,7 @@ This matters for accessibility and calm reading specifically:
 
 - **Reduced cognitive load**: predictable, single-purpose boxes mean less mental effort spent figuring out the interface itself
 - **Consistency for elderly and neurodivergent readers**: the same interaction pattern repeats everywhere, so once it's learned once, it's learned everywhere
-- **No hidden menus to search through**: a reader with limited patience for complexity, or limited ability to navigate deep menus, can see their options directly
+- **Clarity over depth**: where possible, important actions remain visible rather than being buried in deep navigation
 
 LYTGrid began as QuraLYT's interface system. The long term intent is for it to grow into a reusable design system across LYTDesign's wider product line, not remain specific to one app, though today it is implemented and refined specifically within QuraLYT.
 
@@ -166,13 +171,9 @@ Within that system, QuraLYT's visual language is built to feel close to the trad
 
 ## ♿ Accessibility
 
-Accessibility is not an extra feature. It was considered from the first line of design, not added later. QuraLYT is built with the needs of:
+Accessibility has guided QuraLYT from the beginning, not as a feature added later. Every screen is designed to be clear, calm, readable, and easy to navigate for as many people as possible. I continue to improve accessibility throughout development, with the goal of aligning with **WCAG 2.2 AA**.
 
-- **Elderly readers**: larger text options, simplified navigation, Elderly Mode
-- **People with disabilities**: forgiving touch targets, simplified interaction patterns
-- **Neurodivergent readers**: calm, predictable layouts with minimal distraction
-
-QuraLYT is designed to align with **WCAG 2.2 AA** standards.
+This is also part of why the interface is built on LYTGrid: predictable, single-purpose boxes reduce the mental effort needed just to operate the app, which matters as much for accessibility as it does for calm reading.
 
 *(Formal compliance badges will only be published once independently audited. I do not want to overclaim accessibility before it is verified.)*
 
@@ -194,10 +195,10 @@ Beyond phone support today, the platform vision includes:
 
 ## 🔮 Future Ecosystem
 
-**QuraVision™** is not built yet. These are long term commitments guiding where QuraLYT is heading, shared openly so nothing here is mistaken for something available today:
+**QuraVision™** is QuraLYT's long term vision beyond reading and listening: a guided understanding ecosystem meant to help readers go deeper with the Qur'an through reflection, learning, and intelligent guidance, without ever replacing the text itself or a qualified scholar. It is not built yet. These are long term commitments guiding where QuraLYT is heading, shared openly so nothing here is mistaken for something available today:
 
-- **QLES™**: reflective AI support
-- **QLIS™**: Islamic guidance AI
+- **QLES™** (reflective AI support): intended to help a reader sit with a verse a little longer, offering gentle, context aware prompts for reflection rather than answers or interpretation
+- **QLIS™** (Islamic guidance AI): intended to help a reader find relevant Islamic learning material, such as related guides or topics, without replacing scholarly advice
 - Illustrated Hadith collection, with clear explanations and optional audio
 - Illustrated Islamic guides covering prayer, Hajj, Umrah, Ramadan, and everyday learning
 - Prayer times by LYTDesign
@@ -210,9 +211,27 @@ Every Qur'an text, translation, audio recitation, and future tafsir resource is 
 
 ---
 
+## 🌿 Free, Pro & Elite
+
+QuraLYT is built on a simple promise: the core Qur'an experience will always remain free. Every Muslim should be able to read, listen to, and reflect on the Qur'an without advertising, mandatory subscriptions, or locked essential features.
+
+For readers who want to go beyond a conventional Qur'an app, QuraLYT also offers optional Pro and Elite experiences. These are not about restricting access to the Qur'an. They are about expanding how people can engage with it, through additional personalization, enhanced reading environments, cross device experiences, and future features that help different readers connect with the Qur'an in ways that suit them.
+
+Elite represents QuraLYT's long term premium experience: the full set of premium themes, cloud backup across devices, multi user family profiles, and the platform capabilities planned for tablet, TV, and car use. It is intended for readers and families who want the most complete version of QuraLYT, while the core reading experience remains exactly as free as it is for everyone else.
+
+By choosing Pro or Elite, readers also help support the continued development of the free core experience, new translations, accessibility improvements, and long term maintenance for the benefit of the Ummah.
+
+---
+
 ## 🎨 Themes
 
-Themes are designed for readability and comfort during long reading sessions, chosen to preserve the clarity and dignity of the Qur'an rather than for appearance alone.
+QuraLYT's themes were never created to show off colours or make the app look modern. They were designed as part of the reading experience itself.
+
+The environment around us influences how comfortable it feels to spend time reading. A quiet evening, an early morning, or a bright afternoon each create a different atmosphere. QuraLYT's themes are carefully crafted to complement those moments, helping create a calm and comfortable space for reading, reflection, and listening.
+
+Every colour palette is designed with readability, visual comfort, and respect for the Qur'an in mind. The goal is not simply to offer different appearances, but to create a comfortable, immersive environment for longer reading sessions.
+
+Modern design should never compete with the Qur'an. It should quietly support it.
 
 | Tier | Themes |
 |---|---|
@@ -277,7 +296,7 @@ Many of these languages have little or no Qur'an resources available today. This
 QuraLYT is currently in active development, and there are several ways to get involved as the project grows:
 
 - **Translation reviewers**: helping verify accuracy and quality of translations
-- **Accessibility testers**: feedback from elderly readers, people with disabilities, and neurodivergent readers
+- **Accessibility testers**: feedback from readers with different needs, devices, and reading preferences
 - **Scholars**: guidance on Qur'an data, tafsir, and translation labeling
 - **Designers**: feedback on theming, artwork, and interaction design
 - **Developers**: future contributions as the codebase matures
@@ -314,5 +333,5 @@ Built with the intention of sadaqah jariyah, for the Ummah, In sha Allah.
 <div align="center">
 <i>QuraLYT™: Read with Clarity. Reflect with Ease.</i>
 <br/>
-A project of LYTDesign™, Norway.
+A project of LYTDesign™, Norway. Built with sincerity for the Ummah, In sha Allah.
 </div>
