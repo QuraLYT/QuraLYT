@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/30585351/README.md)
+[README.md](https://github.com/user-attachments/files/30593952/README.md)
 <div align="center">
 
-<img src="https://quralyt.com/quralyt-logo.svg" alt="QuraLYT" width="120" />
+<img src="./assets/logo.svg" alt="QuraLYT" width="120" />
 
 # QuraLYT™
 
@@ -268,7 +268,16 @@ Many of these languages have little or no Qur'an resources available today. This
 
 ## 📸 Screenshots
 
-*Screenshots will be published as development progresses and major features are finalized.*
+<div align="center">
+
+<img src="./assets/screenshots/home.png" width="200" alt="QuraLYT home screen" />
+<img src="./assets/screenshots/reading.png" width="200" alt="QuraLYT reading view" />
+<img src="./assets/screenshots/themes.png" width="200" alt="QuraLYT themes" />
+<img src="./assets/screenshots/bookmarks.png" width="200" alt="QuraLYT bookmarks" />
+
+</div>
+
+*More screenshots will be added as development progresses and major features are finalized.*
 
 ---
 
@@ -286,6 +295,7 @@ Many of these languages have little or no Qur'an resources available today. This
 ## 🔗 Links
 
 - Website: [quralyt.com](https://quralyt.com)
+- Instagram: [@quralyt](https://www.instagram.com/quralyt/)
 - Contact: info@quralyt.com
 - A project of: [LYTDesign™](https://lytdesign.com), Norway
 
