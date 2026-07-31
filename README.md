@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30601460/README.md)
 <div align="center">
 
 <img src="./assets/logo.svg" alt="QuraLYT" width="120" />
@@ -300,7 +299,7 @@ Your saved place in the Qur'an
 
 <br/>
 
-*More screenshots will be added as development progresses and major features are finalized.*
+*More screenshots and a short live demo video will be added here as development progresses. What you'll see is the real QuraLYT app, exactly as it exists, not a concept mockup.*
 
 ---
 
