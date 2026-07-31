@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30601374/README.md)
+[README.md](https://github.com/user-attachments/files/30601460/README.md)
 <div align="center">
 
 <img src="./assets/logo.svg" alt="QuraLYT" width="120" />
@@ -270,21 +270,28 @@ Many of these languages have little or no Qur'an resources available today. This
 
 <div align="center">
 
-### Reading View
+### 📖 Reading View
 Calm, distraction free Qur'an reading
 
 <img src="./assets/screenshots/reading.png" width="260" alt="QuraLYT reading view" />
 
 <br/><br/>
 
-### Home Screen
+### 🏠 Home Screen
 The entry point into QuraLYT
 
 <img src="./assets/screenshots/home.png" width="260" alt="QuraLYT home screen" />
 
 <br/><br/>
 
-### Bookmark Page
+### 🎨 Themes
+Calm, comfortable colour palettes for longer reading sessions
+
+<img src="./assets/screenshots/themes.png" width="260" alt="QuraLYT themes" />
+
+<br/><br/>
+
+### 🔖 Bookmark Page
 Your saved place in the Qur'an
 
 <img src="./assets/screenshots/bookmarks.png" width="260" alt="QuraLYT bookmarks" />
