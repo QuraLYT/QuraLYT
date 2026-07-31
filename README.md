@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30593952/README.md)
+[README.md](https://github.com/user-attachments/files/30601313/README.md)
 <div align="center">
 
 <img src="./assets/logo.svg" alt="QuraLYT" width="120" />
@@ -268,14 +268,25 @@ Many of these languages have little or no Qur'an resources available today. This
 
 ## 📸 Screenshots
 
-<div align="center">
-
-<img src="./assets/screenshots/home.png" width="200" alt="QuraLYT home screen" />
-<img src="./assets/screenshots/reading.png" width="200" alt="QuraLYT reading view" />
-<img src="./assets/screenshots/themes.png" width="200" alt="QuraLYT themes" />
-<img src="./assets/screenshots/bookmarks.png" width="200" alt="QuraLYT bookmarks" />
-
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="./assets/screenshots/reading.png" width="200" alt="QuraLYT reading view" /><br/>
+<sub><b>Reading View</b></sub><br/>
+<sub>Calm, distraction free Qur'an reading</sub>
+</td>
+<td align="center" width="33%">
+<img src="./assets/screenshots/home.png" width="200" alt="QuraLYT home screen" /><br/>
+<sub><b>Home Screen</b></sub><br/>
+<sub>The entry point into QuraLYT</sub>
+</td>
+<td align="center" width="33%">
+<img src="./assets/screenshots/bookmarks.png" width="200" alt="QuraLYT bookmarks" /><br/>
+<sub><b>Bookmark Page</b></sub><br/>
+<sub>Your saved place in the Qur'an</sub>
+</td>
+</tr>
+</table>
 
 *More screenshots will be added as development progresses and major features are finalized.*
 
